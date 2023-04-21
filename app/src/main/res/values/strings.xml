@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WearOSExample</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="account_box_icon">Account box icon</string>
+    <string name="notification_message">Notifications</string>
+    <string name="time">10m</string>
+    <string name="notification_owner">Madona Wambua</string>
+    <string name="hi_android">Hi Android Community!</string>
+    <string name="message_icon">Message Icon</string>
+</resources>
